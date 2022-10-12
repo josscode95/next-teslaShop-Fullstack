@@ -29,4 +29,3 @@ Llamara:
 ```
 
 # Deploy en:
-https://next-openjira-ts.vercel.app/
