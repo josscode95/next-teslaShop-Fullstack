@@ -6,7 +6,7 @@ interface IShopLayout {
   title:string;
   pageDescription:string;
   imageFullUrl?:string;
-  children:ReactElement|ReactElement[];
+  children:ReactElement|ReactElement[]
 }
 
 export const ShopLayout:FC<IShopLayout> = ({ children, title, pageDescription, imageFullUrl }) => {
